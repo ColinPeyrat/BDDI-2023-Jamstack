@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>Homepage</h1>
+    <h1>Homepage v2</h1>
     <nav>
       <ul>
         <li>
